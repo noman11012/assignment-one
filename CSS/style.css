@@ -1,6 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.colorPink{
+    color:#E55473;
+}
 /* header section CSS work start*/
 .mainHeader{
     display: flex;
@@ -65,3 +68,49 @@ body{
     line-height: 10px; /* 166.667% */
  }
  /* instagram CSS section work end */
+
+ /* subscribe CSS section started */
+ .subscribe{
+    text-align: center;
+    background-image: url('../bgimage/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 449px; */
+    padding: 150px 0 50px 0;
+ }
+
+ .inputField{
+    display: inline-block;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+ }
+ /* subscribe CSS section END */
+
+
+ /* footer section start */
+ .footersection{
+    text-align: center;
+    background: #111010;
+    margin-top: 70px;
+    /* height: 449px; */
+    padding: 128px 0 128px 0;
+ }
+ .footersectionDiscription{
+    color: rgba(255, 255, 255, 0.90);
+    
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px; /* 166.667% */
+ }
+
+ .footerD{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+ }
+ /* footer section end */
