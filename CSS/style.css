@@ -32,3 +32,18 @@ body{
     padding: 20px 43px 20px 43px;
 }
 /* header section CSS work end*/
+
+
+/* Hot Deal section work start */
+.hotDeal{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);;
+    padding: 20px 100px 20px 100px; 
+    margin-top: 20px;  
+}
+.hotDealSection{
+    text-align: center;
+    width: 60%;
+}
