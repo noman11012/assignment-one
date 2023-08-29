@@ -34,7 +34,7 @@ body{
 /* header section CSS work end*/
 
 
-/* Hot Deal section work start */
+/* Hot Deal CSS section work start */
 .hotDeal{
     display: flex;
     align-items: center;
@@ -47,3 +47,21 @@ body{
     text-align: center;
     width: 60%;
 }
+/* Hot Deal CSS section work end */
+
+ /* instagram CSS section work  */
+ .instagram{
+    text-align: center;
+    margin-top: 100px;
+ }
+ .instagramSection img{
+    margin: 48px 10px 48px 10px;
+    width: 20%;
+ }
+
+ .instagramDiscription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    line-height: 10px; /* 166.667% */
+ }
+ /* instagram CSS section work end */
