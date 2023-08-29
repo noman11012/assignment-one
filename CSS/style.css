@@ -36,6 +36,80 @@ body{
 }
 /* header section CSS work end*/
 
+/* special bonus CSS section start */
+
+.specialBonusfirst{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
+ .specialBonusfirstSection{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+ }
+ .img1{
+    margin: 48px 10px 48px 10px;
+    width: 15%;
+    padding: 50px;
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0 0;
+    height: 310px;
+    width: 254px;
+ }
+
+ .img2{
+    margin: 48px 10px 48px 10px;
+    width: 15%;
+    padding: 50px;
+    background: rgba(5, 151, 160, 0.15);    
+    border-radius: 300px 300px 0 0;
+    height: 310px;
+    width: 254px;
+ }
+
+ .img3{
+    margin: 48px 10px 48px 10px;
+    width: 15%;
+    padding: 50px;
+    background: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0 0;
+    height: 310px;
+    width: 254px;
+ }
+
+
+ .specialBonusfirstDiscription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    line-height: 10px; /* 166.667% */
+ }
+
+/* special bonus CSS section end */
+
+
+/* special bonus section social media start */
+.socialMedia{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(244, 240, 241, 0.1);;
+    padding: 20px 100px 20px 100px; 
+    margin-top: 20px;  
+    border: 2px dotted orange;
+    border-radius: 100px;
+    margin-bottom: 100px;
+}
+.socialMedia:hover{
+background: #b3ec0a;
+}
+.socialMediaSection{
+    text-align: center;
+    width: 60%;
+}
+
+/* special bonus section social media end */
+
 
 /* Hot Deal CSS section work start */
 .hotDeal{
